@@ -1,0 +1,16 @@
+{
+  "graph": [ 
+    { 
+      "node": "smrt-android",
+      "edges": [  ]
+    },
+    { 
+      "node": "smrt-ios",
+      "edges": [  ]
+    },
+    { 
+      "node": "smrt-backend",
+      "edges": [  ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[submodule "smrt-backend"]
+	path = smrt-backend
+	url = https://github.com/sessions-io/smrt-backend
+[submodule "smrt-ios"]
+	path = smrt-ios
+	url = https://github.com/sessions-io/smrt-ios
+[submodule "smrt-android"]
+	path = smrt-android
+	url = https://github.com/sessions-io/smrt-android
