@@ -7,3 +7,6 @@
 [submodule "smrt-android"]
 	path = smrt-android
 	url = https://github.com/sessions-io/smrt-android
+[submodule "smrt-create"]
+	path = smrt-create
+	url = https://github.com/sessions-io/smrt-create
